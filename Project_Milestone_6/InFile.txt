@@ -1,0 +1,20 @@
+Type: Weapon     | Name: War Hammer    | Description: Heavy hammer.      | Price: 1100.50 | Quantity: 70
+Type: Weapon     | Name: Longbow       | Description: Long-range archery. | Price: 950.00  | Quantity: 80
+Type: Weapon     | Name: Spear         | Description: Thrusting weapon.  | Price: 850.50  | Quantity: 90
+Type: Weapon     | Name: Flail         | Description: Spiked ball.       | Price: 920.00  | Quantity: 75
+Type: Weapon     | Name: Halberd       | Description: Axe combo.         | Price: 1080.00 | Quantity: 60
+Type: Armor      | Name: Chainmail     | Description: Ring armor.        | Price: 1200.50 | Quantity: 70
+Type: Armor      | Name: Bracers       | Description: Arm guard.         | Price: 500.00  | Quantity: 120
+Type: Armor      | Name: Shin Guards   | Description: Shin armor.        | Price: 450.00  | Quantity: 130
+Type: Armor      | Name: Shoulder Pads | Description: Shoulder armor.    | Price: 800.00  | Quantity: 90
+Type: Armor      | Name: Cloak         | Description: Stealth cloak.     | Price: 300.50  | Quantity: 150
+Type: Health     | Name: Health Potion | Description: Health boost.      | Price: 50.00   | Quantity: 200
+Type: Health     | Name: Large Potion  | Description: Large recovery.    | Price: 100.00  | Quantity: 120
+Type: Health     | Name: Mega Elixir   | Description: Full recovery.     | Price: 250.00  | Quantity: 60
+Type: Health     | Name: Bandage       | Description: Minor healing.     | Price: 10.00   | Quantity: 500
+Type: Health     | Name: Med Kit       | Description: Quick heal.        | Price: 200.00  | Quantity: 100
+Type: Health     | Name: Herbal Salve  | Description: Wound care.        | Price: 40.00   | Quantity: 250
+Type: Health     | Name: Antiseptic    | Description: Cleanse wounds.    | Price: 30.00   | Quantity: 300
+Type: Health     | Name: Vitality Boost| Description: Boost health.      | Price: 120.00  | Quantity: 80
+Type: Health     | Name: Recovery Syrup| Description: Regen health.      | Price: 70.00   | Quantity: 180
+Type: Health     | Name: Adrenaline    | Description: Energy shot.       | Price: 150.00  | Quantity: 90
